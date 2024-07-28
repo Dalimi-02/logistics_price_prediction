@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "logistics-price-prediction",
+  "private_key_id": "ecbabe240e6ee4802bbddc3015a3c63908e0318d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCI254o7tYaLeAO\nW2NcGM/8JXDpLVItiYRihqWGkeSlwQtUUTaHGB0I8rru3YNNeZiu4C4WWD2xR+pg\nEwuLVY7dy5ZyZeBUZlhuL6CEcCmmQfClEzsuPj62/+B8yybSQKCskuLoy17BQy0k\nDWWAGdthsa4z5rXsxoBJzAUA/n4ylG1GW9VsHMNW6MmGZOIYgyEvLTQGpCQEdyhL\nd1MycfA2KMawWZnjE4ThrPapGTlYh13zMbihKwm3Ci1MAbaZoGmfkVmjPAe2dGYj\nNNnfb9Ph5kFLEUTNA3mBbdltpH8qfcTu+ZBzYnsABwRBwsUEutVltnHhcbwCr9uJ\nkQ3QcUzjAgMBAAECggEAC6o8dty0nxKd8FtVwrnSsHk4gId+Y6c/A27amPfCd2ZW\n4t7xON6TSvn1ePqkgGwG2ZD+HKV0zLGGhp3Y9A1c2gbKUgHg9xCqJOomUmOFCUjB\njDBxcOWZTtvMdJaUPoOHrm3urUz4TJy/Mj16E0sg6djNMltN0lqxAJlFK+qFMyZX\nqN1L9DATCwYfXf9AZup2swpV3oXvrGo+YjzWSBfw5/aKfDZeAkhRFIYrt8n3WXwX\nYhNcSk4wXfhJ4ulrsTIXvFbcvZ/QB9Q/8HaF/7g61pPTDXstEcsnTwJpeT2kQ4Qy\n2/Fu/GGQI+VnurpI+sSv4mGHjKxZEdFDTy8OIqNu0QKBgQC9iBZjw8D74bryMaZ2\nWcB69KdQbUV/M6BHYiCCnS4Z15rAXdWcQFBJhDh050yQY8Dbo0y9JE3wxzdx5VX5\npssvdz9V6b2nK80NskwxdzqWuAG6yVcLQRjx06AhVhIkrVQxxC+Y3laaHV6Mi9gk\nfmkqIUslCjeT90EzXOe1xP0DjQKBgQC42oy3V1Twp0Mt8SzZopTuBPKNrS07NcIg\nl27OKEYVQD3NvChqIPXbLXX2WPUe2mdUG+P1FkbW75wcUeV0a0fwoNKnCU1bJnV+\niboTFeOL3FHj2JvE6drlzc4QSF/H94EXPUpWReuuxf1zlHX1z0s5Gr3jDvWzLGnu\nRarXdoe+LwKBgF4bnWpp/3/SBH5PkuT/CajDo/Q2XaScYMAxBA12uDZSrN9JeFA+\nSt9GDLZXRtgG//LO8cKUrTKZ6HjgM8FjRU5LOqKRDf9cq1NaraR+HBRMR2eUo2jO\nKPGib8c9soKNodmYHT4dYAjj/ldw9KCiN9uYbnR0z0XkJna3ccH6jtrdAoGAMGpl\ngrun7qQQb18EnTf9A95d3QenmiN5ZenjxrE7seMyjMkkWK+rVS2yAMTJ5rvTZm8r\npIyiHzeAztYQYA6dOAQXSFKiZSZMjcjq6IbKI16gQCoCmm+ZuqjNuOwL0iccM4cF\nClWj5hHLUVNoFeqmTB2Z8HeBmN0gHZ03otlTslcCgYAbYW1qXwfu89tyMXHDuOLV\n3hokT4QOOO1bYbC8AhLMTu7F1Wzjw5FamsXAdQJaUe1h2VqBfUMcR9rPCJ4Dc1h7\ngnQwdKLrKo99AvtlSNKN6N7IbBkD9lKuN4SLf5VtOtR20NFJl983lZnrafNBUtFj\nRSdnAiH2AcXSEB9f+8Aphg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wnjwh@logistics-price-prediction.iam.gserviceaccount.com",
+  "client_id": "110507682166268857930",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wnjwh%40logistics-price-prediction.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
