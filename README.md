@@ -11,6 +11,10 @@ This project is a logistics price prediction application that estimates the pric
 - **Data Visualization:** Interactive graphs and charts to visualize predictions.
 - **Firebase Integration:** Backend services using Firebase.
 
+
+  <img width="1214" alt="Screenshot 2024-07-28 at 5 10 41 PM" src="https://github.com/user-attachments/assets/0462c68a-d411-4619-b504-fedcb477b26d">
+
+
 ## Table of Contents
 
 - [Installation](#installation)
