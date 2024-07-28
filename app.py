@@ -1,13 +1,17 @@
 import streamlit as st
 import firebase_admin
-from firebase_admin import credentials, auth, db
+from firebase_admin import credentials, auth
 import pandas as pd
 import altair as alt
 
 # Initialize Firebase
 if not firebase_admin._apps:
-    cred = credentials.Certificate("firebase_key.json")
-    firebase_admin.initialize_app(cred)
+    try:
+        cred = credentials.Certificate("firebase_key.json")
+        firebase_admin.initialize_app(cred)
+        st.success("Firebase Initialized")
+    except Exception as e:
+        st.error(f"Error initializing Firebase: {str(e)}")
 
 # Set page config
 st.set_page_config(page_title="Logistics Price Prediction", page_icon="🚛")
